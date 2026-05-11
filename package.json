@@ -1,0 +1,27 @@
+{
+  "name": "device-telemetry-ui",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://ajay-mahajan-ai.github.io/device-telemetry-ui",
+  "dependencies": {
+    "lucide-react": "^0.469.0",
+    "mqtt": "^5.10.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+  }
+}
